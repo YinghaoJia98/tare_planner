@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/december/cmu_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/dsvplanner/dsvplanner/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/dsvplanner/graph_planner/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/dsvplanner/graph_utils/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/kdtree/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/minkindr/minkindr/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/dsvplanner/misc_utils/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/volumetric_mapping/octomap_world/include/**",
+        "/home/december/cmu_ws/src/tare_planner/src/tare_planner/include/**",
+        "/home/december/cmu_ws/src/autonomous_exploration_development_environment/src/velodyne_simulator/velodyne_gazebo_plugins/include/**",
+        "/home/december/cmu_ws/src/dsv_planner/src/volumetric_mapping/volumetric_map_base/include/**",
+        "/home/december/cmu_ws/src/autonomous_exploration_development_environment/src/waypoint_rviz_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
